@@ -1,2 +1,2 @@
-# CTR-Predictor in Mailing system
-click throw rate predictor using XgBoost
+# CTR-Predictor
+click throw rate predictor in gmail using XgBoost
